@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Java on 德芙纵享丝滑</title>
+        <link>https://Backru.github.io/categories/java/</link>
+        <description>Recent content in Java on 德芙纵享丝滑</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>德芙纵享丝滑</copyright>
+        <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Backru.github.io/categories/java/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>IDEA快速搭建Springboot &#43; maven项目</title>
+        <link>https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/</link>
+        <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/</guid>
+        <description>&lt;img src="https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/0.png" alt="Featured image of post IDEA快速搭建Springboot &#43; maven项目" /&gt;&lt;h2 id=&#34;创建项目&#34;&gt;创建项目
+&lt;/h2&gt;&lt;p&gt;创建maven项目&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/1.png&#34;
+	width=&#34;814&#34;
+	height=&#34;651&#34;
+	srcset=&#34;https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/1_hu_b24376837c6aa464.png 480w, https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/1_hu_6d304098638a4cae.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;示例图片&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;125&#34;
+		data-flex-basis=&#34;300px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;项目名填写-jdk-java版本选择&#34;&gt;项目名填写-jdk-java版本选择
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/2.png&#34;
+	width=&#34;897&#34;
+	height=&#34;699&#34;
+	srcset=&#34;https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/2_hu_7844a498b8289ff9.png 480w, https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/2_hu_f693888ff0acdf18.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;示例图片&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;128&#34;
+		data-flex-basis=&#34;307px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;添加项目-maven依赖&#34;&gt;添加项目-maven依赖
+&lt;/h2&gt;&lt;p&gt;如果是前端web项目则勾选web依赖如下图&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/3.png&#34;
+	width=&#34;784&#34;
+	height=&#34;706&#34;
+	srcset=&#34;https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/3_hu_c5052f96e65599ff.png 480w, https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/3_hu_317ea9bea68507fc.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;示例图片&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;111&#34;
+		data-flex-basis=&#34;266px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;创建成功&#34;&gt;创建成功
+&lt;/h2&gt;&lt;p&gt;创建成功如下图&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/4.png&#34;
+	width=&#34;1406&#34;
+	height=&#34;653&#34;
+	srcset=&#34;https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/4_hu_c16b4e64fd4c4172.png 480w, https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/4_hu_fc86bf45224f75ad.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;示例图片&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;215&#34;
+		data-flex-basis=&#34;516px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;运行成功&#34;&gt;运行成功
+&lt;/h2&gt;&lt;p&gt;1.第一步：运行项目&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/5.png&#34;
+	width=&#34;1920&#34;
+	height=&#34;1032&#34;
+	srcset=&#34;https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/5_hu_4eda5af6f23c4582.png 480w, https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/5_hu_79bc0380e2d13438.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;示例图片&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;446px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;2.第二步：查看运行结果&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/6.png&#34;
+	width=&#34;1920&#34;
+	height=&#34;1032&#34;
+	srcset=&#34;https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/6_hu_199e6bac06f68640.png 480w, https://Backru.github.io/p/idea%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAspringboot--maven%E9%A1%B9%E7%9B%AE/6_hu_b16b02a50f95d600.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;示例图片&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;186&#34;
+		data-flex-basis=&#34;446px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
