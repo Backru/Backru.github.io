@@ -1210,7 +1210,21 @@
         
         <guid>https://Backru.github.io/p/%E5%8D%A1%E7%89%87%E7%BF%BB%E8%BD%AC/</guid>
         <description>&lt;img src="https://Backru.github.io/p/%E5%8D%A1%E7%89%87%E7%BF%BB%E8%BD%AC/1.png" alt="Featured image of post 卡片翻转" /&gt;&lt;h2 id=&#34;演示动图&#34;&gt;演示动图
-&lt;/h2&gt;&lt;h2 id=&#34;代码&#34;&gt;代码
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://Backru.github.io/p/%E5%8D%A1%E7%89%87%E7%BF%BB%E8%BD%AC/2.gif&#34;
+	width=&#34;1836&#34;
+	height=&#34;647&#34;
+	srcset=&#34;https://Backru.github.io/p/%E5%8D%A1%E7%89%87%E7%BF%BB%E8%BD%AC/2_hu_d82676cc32238f1a.gif 480w, https://Backru.github.io/p/%E5%8D%A1%E7%89%87%E7%BF%BB%E8%BD%AC/2_hu_6a38f051dd70a4ca.gif 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;示例图&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;283&#34;
+		data-flex-basis=&#34;681px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;代码&#34;&gt;代码
 &lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;  1
