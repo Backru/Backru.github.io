@@ -758,7 +758,8 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;script&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h1 id=&#34;运行和测试&#34;&gt;运行和测试
+&lt;/div&gt;&lt;h1 id=&#34;创建微应用&#34;&gt;创建微应用
+&lt;/h1&gt;&lt;h1 id=&#34;运行和测试&#34;&gt;运行和测试
 &lt;/h1&gt;&lt;p&gt;现在，你的主应用已经配置完毕。要运行整个系统：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;打开一个终端，在 Monorepo 根目录下，启动所有微应用：&lt;/li&gt;
