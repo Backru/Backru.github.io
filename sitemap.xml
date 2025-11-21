@@ -3,18 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://Backru.github.io/</loc>
-    <lastmod>2025-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Backru.github.io/post/</loc>
+    <lastmod>2025-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Backru.github.io/categories/</loc>
-    <lastmod>2025-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Backru.github.io/categories/test/</loc>
+    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Backru.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Backru.github.io/p/test-chinese/</loc>
+    <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Backru.github.io/categories/css/</loc>
     <lastmod>2025-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Backru.github.io/p/css%E5%A4%9A%E8%A1%8C%E6%96%87%E6%9C%AC%E6%BA%A2%E5%87%BA%E9%9A%90%E8%97%8F%E6%98%BE%E7%A4%BA%E7%9C%81%E7%95%A5%E5%8F%B7/</loc>
-    <lastmod>2025-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Backru.github.io/post/</loc>
     <lastmod>2025-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Backru.github.io/categories/element-plus/</loc>
@@ -54,12 +63,6 @@
     <lastmod>2021-09-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Backru.github.io/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Backru.github.io/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Backru.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Backru.github.io/p/%E5%88%9B%E5%BB%BAvue2-vue3%E9%A1%B9%E7%9B%AE%E5%91%BD%E4%BB%A4/</loc>
